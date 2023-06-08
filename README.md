@@ -57,4 +57,9 @@ new CodeLink({
   type: 'vsCode或者webStorm',
   url: 'http://localhost:xxxx或者https://localhost:xxxx'
 })
+
+
+3. 按shift + click（选中的dom元素） 既可跳转对应的vscode 的vue 文件
+
+   ps: 不需要打开F12点击dom ，只需要点击视图
 ```
